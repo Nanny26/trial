@@ -1,0 +1,44 @@
+*{
+			box-sizing: border-box;
+			margin: 0;
+			padding: 0;
+		}
+		h1{
+			text-align: center;
+			padding-top: 20px;
+			padding-bottom: 40px
+		}
+		.divs{
+			background-color: grey;
+			border: 1px solid black;
+			width: 30%;
+			float:left;
+			margin-right: 10px;
+			margin-left: 10px;
+				
+		}
+		p{
+			clear: both;
+			padding: 10px;
+		}
+		h3{
+			clear: both;
+			float: right;
+			text-align: right;
+			display: inline-block;
+			padding-right: 20px;
+			border: 1px solid black;
+
+		}
+		.pink{
+			background-color: pink;
+			
+		}
+		.red{
+			background-color: red;
+			
+		}
+		.yellow{
+			background-color: yellow;
+			
+		}
